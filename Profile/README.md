@@ -14,7 +14,6 @@
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/gracekim527.png" width="150"> | <img src="https://github.com/staccato20.png" width="150"> | <img src="https://github.com/Rommmu.png" width="150"> | <img src="https://github.com/CMH5701.png" width="150"> |
 
---- 
-© 2022. MapinSkhu All rights reserved.  
+---  
 #### Contact
 - mail : lemonherb0323@naver.com

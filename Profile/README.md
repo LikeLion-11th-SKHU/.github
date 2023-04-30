@@ -15,5 +15,22 @@
 | <img src="https://github.com/gracekim527.png" width="150"> | <img src="https://github.com/staccato20.png" width="150"> | <img src="https://github.com/Rommmu.png" width="150"> | <img src="https://github.com/CMH5701.png" width="150"> |
 
 ---  
+### 🦁 11기 아기사자
+| [김가을](https://github.com/rlarkdmf1105) |[김시은](https://github.com/kimsieun99) | [김신희](https://github.com/shinheekim) | [김용욱](https://github.com/kimyongwook98) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/rlarkdmf1105.png" width="150"> | <img src="https://github.com/kimsieun99.png" width="150"> | <img src="https://github.com/shinheekim.png" width="150"> | <img src="https://github.com/kimyongwook98.png" width="150"> |
+
+| [김태형](https://github.com/taehyungislegend) |[류고은](https://github.com/gosilver20012001) | [박지균](https://github.com/jivirus) | [박지원](https://github.com/batwon) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/taehyungislegend.png" width="150"> | <img src="https://github.com/gosilver20012001.png" width="150"> | <img src="https://github.com/jivirus.png" width="150"> | <img src="https://github.com/batwon.png" width="150"> |
+
+| [배유민](https://github.com/bum7706) |[백하윤](https://github.com/hayoon07) | [안준영](https://github.com/treaty321) | [오동재](https://github.com/djdongjae) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/bum7706.png" width="150"> | <img src="https://github.com/hayoon07.png" width="150"> | <img src="https://github.com/treaty321.png" width="150"> | <img src="https://github.com/djdongjae.png" width="150"> |
+
+| [임예솔](https://github.com/sonamulovebunny) |[전혜린](https://github.com/hayrin0603) | [정다운](https://github.com/wjdekdns1028) | [차희주](https://github.com/JOOZOO20) |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/sonamulovebunny.png" width="150"> | <img src="https://github.com/hayrin0603.png" width="150"> | <img src="https://github.com/wjdekdns1028.png" width="150"> | <img src="https://github.com/JOOZOO20.png" width="150"> |
+---  
 #### Contact
 - mail : lemonherb0323@naver.com

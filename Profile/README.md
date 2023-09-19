@@ -20,13 +20,13 @@
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/rlarkdmf1105.png" width="150"> | <img src="https://github.com/kimsieun99.png" width="150"> | <img src="https://github.com/shinheekim.png" width="150"> | <img src="https://github.com/kimyongwook98.png" width="150"> |
 
-|[류고은](https://github.com/gosilver20012001) | [박지균](https://github.com/jivirus) | [백하윤](https://github.com/hayoon07) | [안준영](https://github.com/treaty321) |
+| [박지균](https://github.com/jivirus) | [백하윤](https://github.com/hayoon07) | [안준영](https://github.com/treaty321) | [오동재](https://github.com/djdongjae) |
 |:---:|:---:|:---:|:---:|
-| <img src="https://github.com/gosilver20012001.png" width="150"> | <img src="https://github.com/jivirus.png" width="150"> | <img src="https://github.com/hayoon07.png" width="150"> | <img src="https://github.com/treaty321.png" width="150"> |
+| <img src="https://github.com/jivirus.png" width="150"> | <img src="https://github.com/hayoon07.png" width="150"> | <img src="https://github.com/treaty321.png" width="150"> | <img src="https://github.com/djdongjae.png" width="150"> |
 
-| [오동재](https://github.com/djdongjae) | [전혜린](https://github.com/hayrin0603) | [정다운](https://github.com/wjdekdns1028)  |
-|:---:|:---:|:---:|
-| <img src="https://github.com/djdongjae.png" width="150"> | <img src="https://github.com/hayrin0603.png" width="150"> | <img src="https://github.com/wjdekdns1028.png" width="150"> |
+| [전혜린](https://github.com/hayrin0603) | [정다운](https://github.com/wjdekdns1028)  |
+|:---:|:---:|
+| <img src="https://github.com/hayrin0603.png" width="150"> | <img src="https://github.com/wjdekdns1028.png" width="150"> |
 
 ---  
 #### Contact
